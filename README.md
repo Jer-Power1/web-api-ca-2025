@@ -1,1 +1,3 @@
-# web-api-ca-2025
+# Assignment 2 - Web API
+
+Name: Jer Power
